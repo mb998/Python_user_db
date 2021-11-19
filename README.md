@@ -1,4 +1,4 @@
-# Python_user_db
+# Python_users_db
 Simple database application (in hungarian) for storing users
 
 Users' attributes:
