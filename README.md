@@ -12,3 +12,5 @@ Features:
   -Delete all user
   -Search user
   -Save database to Excel file
+  
+To run the app, write in terminal: python users.py
